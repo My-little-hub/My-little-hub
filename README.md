@@ -1,4 +1,4 @@
-https://my-little-hub.github.io/My-little-hub/
+
 <html>
 <head>
 <title>My Journey</title>
